@@ -1,3 +1,30 @@
-COMBINA JOAQUIN
+COM BINA JOA QUIN
+ESTE ES UN ABECEDARIO
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+LL
+M
+N
+O
+P
+Q
+R
+S
+T
+U 
+V
+W
+X
+Y
+Z
 
-Este proyecto es una prueba de como crear un repositorio y como clonarlo desde github a mi escritorio local.
