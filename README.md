@@ -1,30 +1,3 @@
-COM BINA JOA QUIN
-ESTE ES UN ABECEDARIO
-A
-B
-C
-D
-E
-F
-G
-H
-I
-J
-K
-L
-LL
-M
-N
-O
-P
-Q
-R
-S
-T
-U 
-V
-W
-X
-Y
-Z
+Combina Joaquin 
+Esta es una prueba que le voy a sacar captura para que vean que no me pushea
 
